@@ -1,11 +1,46 @@
-## Hello! 😄
+<div>
+  <img src="https://i.imgur.com/y9JrZhwh.png" width="250px"/>
+</div>
 
-My name is Tanner. I'm a software developer traveling the world with my family. I am currently focusing on building web apps using Next.js.
+# Hello, I'm Tanner Lemon 👋
 
-I really enjoy JavaScript but am always learning new languages & technologies.
+### Full Stack Developer | UX/UI Designer | Artist | Musician
 
-## 💬 Contact Info
+<br />
 
-|Method|Contact|
-|---|---|
-|Email|tanrlemn@gmail.com|
+Welcome to my GitHub profile! I'm a passionate developer with a flair for creativity, blending a strong technical background with a love for art and music.
+
+<br />
+
+---
+### About Me
+- Full Stack Developer with experience in Node.js, React, PHP, and more.
+- UX/UI enthusiast who loves crafting intuitive and beautiful user interfaces.
+- Oil painter exploring the depths of color and emotion through my art.
+- Musician finding harmony between code and creativity.
+- Passionate about innovating and solving complex problems with technology.
+
+<br />
+
+### My Work
+- I specialize in building robust web applications, creating engaging user experiences, and integrating diverse technologies seamlessly.
+- Actively involved in various projects, ranging from developing dynamic websites to crafting user-centered designs and digital marketing strategies.
+- My artistic pursuits in painting and music not only enrich my personal life but also inspire my professional work, bringing a unique perspective to the tech world.
+
+<br />
+
+### Connect with Me
+- Email me: tanrlemn@gmail.com
+
+<br />
+
+### Languages and Tools
+![Your Languages and Tools](<https://github-readme-stats.vercel.app/api/top-langs/?username=tanrlemn&layout=compact&theme=dark>)
+
+<br />
+
+---
+
+<br />
+
+Feel free to browse my repositories and get in touch if you're interested in my work or collaborations!
