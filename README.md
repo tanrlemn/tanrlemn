@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.imgur.com/y9JrZhwh.png" width="250px"/>
+  <img src="https://i.imgur.com/PmTYLTdh.png" width="250px"/>
 </div>
 
 # Hello, I'm Tanner Lemon 👋
