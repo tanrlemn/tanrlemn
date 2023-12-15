@@ -31,7 +31,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a flair for creati
 
 ### Connect with Me
 - Email me: contact@asynctanner.com
-- View my portfolio: [_asynctanner](https:/asynctanner.com/)
 
 <br />
 
