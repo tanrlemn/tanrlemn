@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a flair for creati
 <br />
 
 ### Connect with Me
-- Email me: contact@asynctanner.com
+- Email me: tanrlemn@gmail.com
 
 <br />
 
