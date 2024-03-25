@@ -1,23 +1,17 @@
-<div>
-  <img src="https://i.imgur.com/PmTYLTdh.png" width="250px"/>
-</div>
-
-# Hello, I'm Tanner Lemon 👋
+# Hello, I'm Tanner Lemon 
 
 ### Full Stack Developer | UX/UI Designer | Artist | Musician
 
 <br />
 
-Welcome to my GitHub profile! I'm a passionate developer with a flair for creativity, blending a strong technical background with a love for art and music.
-
-<br />
+Welcome to my GitHub profile! I'm a passionate developer, and I love being creative. I have a strong technical background with a love for art and music.
 
 ---
 ### About Me
-- Full Stack Developer with experience in Node.js, React, PHP, and more.
+- Full Stack Developer with experience in Node.js, React, and more.
 - UX/UI enthusiast who loves crafting intuitive and beautiful user interfaces.
 - Oil painter exploring the depths of color and emotion through my art.
-- Musician finding harmony between code and creativity.
+- Musician making somewhat unique hip-hop and pop music.
 - Passionate about innovating and solving complex problems with technology.
 
 <br />
