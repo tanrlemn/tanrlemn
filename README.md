@@ -1,6 +1,6 @@
 # Hello, I'm Tanner Lemon 
 
-### Full Stack Developer | UX/UI Designer | Artist | Musician
+### Developer | UX Designer | Artist & Musician
 
 <br />
 
@@ -8,18 +8,16 @@ Welcome to my GitHub profile! I'm a passionate developer, and I love being creat
 
 ---
 ### About Me
-- Full Stack Developer with experience in Node.js, React, and more.
-- UX/UI enthusiast who loves crafting intuitive and beautiful user interfaces.
-- Oil painter exploring the depths of color and emotion through my art.
-- Musician making somewhat unique hip-hop and pop music.
+- Full Stack Developer with experience in Node.js, React, and more. Currently adopting Typescript.
+- UX enthusiast focused on intuitive user interfaces.
+- Oil painter and musician. I like painting portraits.
 - Passionate about innovating and solving complex problems with technology.
 
 <br />
 
 ### My Work
-- I specialize in building robust web applications, creating engaging user experiences, and integrating diverse technologies seamlessly.
-- Actively involved in various projects, ranging from developing dynamic websites to crafting user-centered designs and digital marketing strategies.
-- My artistic pursuits in painting and music not only enrich my personal life but also inspire my professional work, bringing a unique perspective to the tech world.
+- I specialize in creating engaging user experiences and building full-stack web applications.
+- My artistic pursuits in painting and music inspire my professional work, bringing a unique perspective to the tech world.
 
 <br />
 
