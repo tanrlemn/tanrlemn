@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer, and I love being creat
 
 ---
 ### About Me
-- Full Stack Developer with experience in Node.js, React, and more. Currently adopting Typescript.
+- Full Stack Developer with experience in Node.js, React, and more. Prefer Typescript.
 - UX enthusiast focused on intuitive user interfaces.
 - Oil painter and musician. I like painting portraits.
 - Passionate about innovating and solving complex problems with technology.
